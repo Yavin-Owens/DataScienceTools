@@ -317,9 +317,7 @@ https://github.com/tmbo/questionary
 - sed
 
 ##### By
-- Jesse E.Agbe (JCharis)
-- Jesus Saves @JCharisTech
-- J-Secur1ty
+- yowens2
 
 ##### Inspired By 
-+ Others
++ Jesse E.Agbe (JCharis)
